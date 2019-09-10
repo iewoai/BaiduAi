@@ -3,8 +3,8 @@ from playsound import playsound
 
 def get_mp3(message, mp3):
 	APP_ID = '11601536'
-	API_KEY = 'wkK9fgyi3GPkujUUnE0cqxCC'
-	SECRET_KEY = 'YKd0LhVVrp6uwP5eKxt7Cu5HL0tuGDDf'
+	API_KEY = ''
+	SECRET_KEY = ''
 
 	client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
 
